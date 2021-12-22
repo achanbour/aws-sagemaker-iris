@@ -19,4 +19,4 @@ Lastly, to get a visual representation of the tree, the dot file of the graph wa
 
 To convert it into a png, the ```python-graphviz``` package has to be installed in a virtual conda environment. Once this is done, we can run the dot command ```dot -Tpng tree.dot -o tree.png``` in the same environment to get the image of the tree:
 
-[](tree.png)
+![](./tree.png)
